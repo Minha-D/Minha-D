@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MinhaMine2271
+- 👋 Hi, I’m @Minha-D
 - 👀 I’m interested in Computer Science, Software Engeneering , Open Source Software Development, Android Development.
 - 🌱 I’m currently learning ... Android Development, Various Programing Languages and Hackintoshing.
 - 💞️ I’m looking to collaborate on ...
