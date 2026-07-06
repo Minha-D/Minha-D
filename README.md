@@ -35,7 +35,7 @@ CS & EE student. Linux systems tinkerer. I work close to the metal — kernel in
 
 | Project | Description |
 |---|---|
-| [postmarketOS / SM-A405F](https://github.com/Minha-D) | Linux mainlining for Samsung Galaxy M40. Snapdragon 675. |
+| [postmarketOS / SM-M405F](https://github.com/Minha-D) | Linux mainlining for Samsung Galaxy M40. Snapdragon 675. |
 
 
 ---
